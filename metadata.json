@@ -1,0 +1,6 @@
+{
+  "name": "Planet Repair Shop",
+  "description": "An AI-powered, open-ended Earth restoration simulation game. Propose environmental interventions in natural language, explore ecological trade-offs, and guide ecosystems toward resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
